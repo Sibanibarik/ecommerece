@@ -8,8 +8,8 @@ function App() {
     <div className="App">
      <LoginPage></LoginPage>
      <br></br>
-     <SignupPage></SignupPage>
-     <Forgetpassword></Forgetpassword>
+     {/* <SignupPage></SignupPage> */}
+     {/* <Forgetpassword></Forgetpassword> */}
     </div>
   );
 }
